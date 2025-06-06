@@ -7,7 +7,7 @@ const Loading = () => {
        <div style={styles.content}>
         <img style={styles.logo } src={logo} alt='logo'/>
         <p style={styles.playText}>PlayGround</p>
-        <p style={styles.text}>It is an Amea Thin</p>
+        <p style={styles.text}>It is an Amea Thing</p>
     </div>
     </div>
    
