@@ -280,7 +280,7 @@ Can you spot them all? The time has started since 😈
             </div>
 
             {/* App Grid */}
-            <div className="grid grid-cols-5 gap-4">
+         <div className="grid grid-cols-4 md:grid-cols-5 gap-4">
               {shuffledApps.map(app => {
                 const isSelected = selectedApps.has(app.id);
                 const isCorrect = appsToFind.some(appToFind => appToFind.id === app.id) && isSelected;
