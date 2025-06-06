@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 const AppHuntGame = () => {
   const apps =[
-    { id: 1, name: "WhatsApp", icon: "./icon/whatsapp.jpeg" },
+    { id: 1, name: "WhatsApp", icon: "icon/whatsapp.jpeg" },
     { id: 2, name: "Facebook", icon: "icon/facebook.jpeg" },
     { id: 3, name: "Instagram", icon: "icon/instagram.jpeg" },
     { id: 4, name: "Twitter", icon: "icon/twitter.png" },
@@ -45,7 +45,7 @@ const AppHuntGame = () => {
     { id: 42, name: "Camtel", icon: "icon/camtel.jpeg" },
     { id: 43, name: "Prime Video", icon: "icon/primevideo.png" },
     { id: 44, name: "Kawlo", icon: "icon/kawlo.png" },
-    { id: 45, name: "Orange Cameroon", icon: "icon/orange.png" },
+    { id: 45, name: "Orange Cameroon", icon: "icon/Orange.png" },
     { id: 46, name: "Mc Donald", icon: "icon/donald.png" },
     { id: 47, name: "TotalEnergies", icon: "icon/total.jpeg" },
     { id: 48, name: "Coca Cola", icon: "icon/coca.png" },
