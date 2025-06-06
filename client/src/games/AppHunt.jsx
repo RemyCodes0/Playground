@@ -234,7 +234,7 @@ Round 2 begins. It’s the same concept—with a clever twist you’ll discover 
 Whether you're a tech lover or just looking to train your brain, App Hunt will challenge your speed and accuracy like never before.
 <br/>
 <br/>
-Can you spot them all?
+Can you spot them all? The time has started since 😈
 </p>
 
 
